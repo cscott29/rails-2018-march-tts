@@ -1,0 +1,29 @@
+git add .
+
+git branch
+
+git branch -D
+
+git checkout <branch>
+
+git checkout -b <branch>
+
+git clone url
+
+git commit -m"FILE DESCRIPTION"
+
+git fetch
+
+git init
+
+git merge <branch>
+
+git pull
+
+git push
+
+git remote add origin (url)
+
+git stash
+
+git status
