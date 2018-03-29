@@ -25,5 +25,7 @@ git push
 git remote add origin (url)
 
 git stash
+A temporary save. When you're halfway done you don't want to commit it so you stash it away and it is saved it to yourself for later. 
 
 git status
+
