@@ -1,4 +1,5 @@
 git add .
+  Add unsaved files to git.  This adds to your local git but not to github.  You'll need additional commands to send to github
 
 git branch
 
@@ -27,3 +28,4 @@ git remote add origin (url)
 git stash
 
 git status
+  Give information about git, including your branch and files that have not been 'saved.'
