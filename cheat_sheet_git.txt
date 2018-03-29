@@ -1,5 +1,6 @@
 git add .
 
+
 git branch
 
 git branch -D
@@ -12,7 +13,7 @@ git clone url
 
 git commit -m"FILE DESCRIPTION"
 
-git fetch
+git fetch : You can do a git fetch at any time to update your remote-tracking branches under refs/remotes/<remote>/ .
 
 git init
 
