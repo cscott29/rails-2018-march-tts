@@ -1,4 +1,7 @@
 git add .
+# Add Unsaved files to git. This adds top your local git 
+but not to github. You'll need additional commands to
+send to github
 
 git branch
 
@@ -17,9 +20,10 @@ git fetch
 git init
 
 git merge <branch>
-
+# Join two or more development histories together
 git pull
-
+# Fetch from and integrate with
+another repository or a local branch
 git push
 
 git remote add origin (url)
