@@ -5,8 +5,10 @@ git branch
 git branch -D
 
 git checkout <branch>
+Checking out a current branch (AKA a copy) to be able to edit outside of the master.
 
 git checkout -b <branch>
+Adding a new branch (AKA a copy) to checkout and to be able to edit outside of the master.
 
 git clone url
 
